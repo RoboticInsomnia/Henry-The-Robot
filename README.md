@@ -14,8 +14,8 @@ Henry The Robot is a project that allows users to control a robot using speech r
 
     Clone or download the project to your local machine.
     Install Python 3+ if it is not already installed.
-    Install PyAudio library by running pip install pyaudio in your terminal.
-    Install Speech Recognition library by running pip install SpeechRecognition in your terminal.
+    Install PyAudio library by running pip install pyaudio in your terminal. : pip install PyAudio
+    Install Speech Recognition library by running pip install SpeechRecognition in your terminal. : pip install SpeechRecognition
 
 #### Usage
 
